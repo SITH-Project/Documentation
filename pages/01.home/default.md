@@ -1,10 +1,8 @@
 ---
-title: SITH
+title: 'SITH - Security Incident Tracker and Handler'
 body_classes: 'title-center title-h1h2'
 media_order: sith.png
 ---
-
-## Security Incident Tracker and Handler
 
 ![sith](sith.png "sith") {.center}
 
