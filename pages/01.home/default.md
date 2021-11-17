@@ -6,6 +6,5 @@ media_order: sith.png
 
 ![sith](sith.png "sith") {.center}
 
-Source Code: https://github.com/SITH-Project
-
-Website: https://www.sith.app
+**Source Code: https://github.com/SITH-Project**
+**Website: https://www.sith.app**
