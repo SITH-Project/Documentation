@@ -14,7 +14,7 @@ media_order: sith.png
 -------
 
 ## What is SITH? 
-SITH is a tool, inspired from Aurora-Incident-Response (https://github.com/cyb3rfox/Aurora-Incident-Response), manage an incident allowing cybersecurity in the form of tickets, in a collaborative manner, via a web interface. This tool aims to help security teams to gather information into a simple interface. Any analyst team can share together inflammations on the same case.
+SITH is a OpenSource tool, inspired from Aurora-Incident-Response (https://github.com/cyb3rfox/Aurora-Incident-Response), manage an incident allowing cybersecurity in the form of tickets, in a collaborative manner, via a web interface. This tool aims to help security teams to gather information into a simple interface. Any analyst team can share together inflammations on the same case.
 
 **This version of this tool is « FOR TEST ONLY ».**
 
